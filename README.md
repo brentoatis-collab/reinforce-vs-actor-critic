@@ -1,3 +1,6 @@
+> **Applied AI portfolio project by Brent Oatis, MBA**
+> Comparing policy-gradient methods for learning stability and decision quality.
+
 # Policy Gradient vs Actor-Critic in GridWorld
 
 **Author:** Brent Oatis  
